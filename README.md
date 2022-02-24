@@ -24,7 +24,7 @@ the application to be able to display the rental statement in HTML:
 <p>You earned <em>2</em> loyalty points</p>
 ```
 
-You will first have to understand what the business rules are, and then show us your design/refactoring skills.
+You will first have to understand what the business rules are, and then implement this new feature, showing us your design/refactoring skills.
 
 Tip: When you find you have to add a feature to a program, and the program's code is not
 structured in a convenient way to add the feature, first refactor the program to make it
