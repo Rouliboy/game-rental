@@ -26,15 +26,6 @@ the application to be able to display the rental statement in HTML:
 
 You will first have to understand what the business rules are, and then implement this new feature, showing us your design/refactoring skills.
 
-Tip: When you find you have to add a feature to a program, and the program's code is not
-structured in a convenient way to add the feature, first refactor the program to make it
-easy to add the feature, then add the feature.
-
-Whenever you do refactoring, the first step is always the same.
-You need to build a solid set of tests for that section of code. The tests are essential because even
-though you follow refactorings structured to avoid most of the opportunities for introducing bugs,
-you are still human and still make mistakes. Thus, you need solid tests.
-
 ## Build
 
 All you need to build this project is Java 11 or later, Maven 3.0 or later.
